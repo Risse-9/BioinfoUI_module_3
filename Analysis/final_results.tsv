@@ -1,0 +1,463 @@
+ID	Gene variants	Resistance Class	Gene Families
+U00096.3	evgS	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	acrB	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtB	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	acrD	aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtF	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	AcrF	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtC	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	msbA	nitroimidazole antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+U00096.3	YojI	peptide antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+U00096.3	eptA	peptide antibiotic	pmr phosphoethanolamine transferase
+U00096.3	emrB	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	Kpne_KpnH	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	emrY	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	TolC	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtP	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	cpxA	aminocoumarin antibiotic;aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtA	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	mdtM	disinfecting agents and antiseptics;fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;phenicol antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	mdtH	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	mdtG	phosphonic acid antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	Ecol_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	Sfle_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	Ecol_mdfA	disinfecting agents and antiseptics;phenicol antibiotic;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	emrA	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	ugd	peptide antibiotic	pmr phosphoethanolamine transferase
+U00096.3	mdtE	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	AcrE	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	Ecol_ampC_BLA	cephalosporin;penam	ampC-type beta-lactamase
+U00096.3	EC-8	cephalosporin	EC beta-lactamase
+U00096.3	EC-5	cephalosporin	EC beta-lactamase
+U00096.3	EC-19	cephalosporin	EC beta-lactamase
+U00096.3	emrK	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	EC-18	cephalosporin	EC beta-lactamase
+U00096.3	EC-15	cephalosporin	EC beta-lactamase
+U00096.3	EC-16	cephalosporin	EC beta-lactamase
+U00096.3	EC-14	cephalosporin	EC beta-lactamase
+U00096.3	EC-13	cephalosporin	EC beta-lactamase
+U00096.3	mdtN	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	PmrF	peptide antibiotic	pmr phosphoethanolamine transferase
+U00096.3	leuO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	gadX	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	bacA	peptide antibiotic	undecaprenyl pyrophosphate related proteins
+U00096.3	kdpE	aminoglycoside antibiotic	kdpDE
+U00096.3	kdpE	aminoglycoside antibiotic	kdpDE
+U00096.3	AcrS	cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	CRP	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	evgA	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	gadW	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	emrR	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+U00096.3	H-NS	cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	marA	carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump
+U00096.3	Ecol_emrE	macrolide antibiotic	small multidrug resistance (SMR) antibiotic efflux pump
+BA000007.3	evgS	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	acrB	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	acrD	aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtF	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtB	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtC	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	AcrF	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	AcrF	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	msbA	nitroimidazole antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+BA000007.3	YojI	peptide antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+BA000007.3	eptA	peptide antibiotic	pmr phosphoethanolamine transferase
+BA000007.3	emrY	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	emrB	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	Kpne_KpnH	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	TolC	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	cpxA	aminocoumarin antibiotic;aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtP	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	Ecol_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtG	phosphonic acid antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	mdtA	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	Sfle_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	mdtH	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	emrA	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	mdtE	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	AcrE	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	Ecol_mdfA	disinfecting agents and antiseptics;phenicol antibiotic;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	mdtM	disinfecting agents and antiseptics;fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;phenicol antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	ugd	peptide antibiotic	pmr phosphoethanolamine transferase
+BA000007.3	EC-15	cephalosporin	EC beta-lactamase
+BA000007.3	EC-16	cephalosporin	EC beta-lactamase
+BA000007.3	EC-14	cephalosporin	EC beta-lactamase
+BA000007.3	EC-13	cephalosporin	EC beta-lactamase
+BA000007.3	EC-18	cephalosporin	EC beta-lactamase
+BA000007.3	EC-5	cephalosporin	EC beta-lactamase
+BA000007.3	Ecol_ampC_BLA	cephalosporin;penam	ampC-type beta-lactamase
+BA000007.3	EC-19	cephalosporin	EC beta-lactamase
+BA000007.3	EC-8	cephalosporin	EC beta-lactamase
+BA000007.3	emrK	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	mdtN	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	PmrF	peptide antibiotic	pmr phosphoethanolamine transferase
+BA000007.3	leuO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	bacA	peptide antibiotic	undecaprenyl pyrophosphate related proteins
+BA000007.3	gadX	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	AcrS	cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	kdpE	aminoglycoside antibiotic	kdpDE
+BA000007.3	gadW	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	evgA	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	CRP	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	emrR	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+BA000007.3	H-NS	cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	marA	carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump
+BA000007.3	Ecol_emrE	macrolide antibiotic	small multidrug resistance (SMR) antibiotic efflux pump
+CP000243.1	evgS	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	acrD	aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	acrB	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtF	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtB	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	AcrF	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtC	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	msbA	nitroimidazole antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+CP000243.1	YojI	peptide antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+CP000243.1	emrB	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	Kpne_KpnH	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	emrY	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	TolC	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtP	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	eptA	peptide antibiotic	pmr phosphoethanolamine transferase
+CP000243.1	cpxA	aminocoumarin antibiotic;aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtG	phosphonic acid antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	Ecol_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	Sfle_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	mdtH	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	AcrE	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	EC-5	cephalosporin	EC beta-lactamase
+CP000243.1	mdtE	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	EC-19	cephalosporin	EC beta-lactamase
+CP000243.1	emrA	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	Ecol_mdfA	disinfecting agents and antiseptics;phenicol antibiotic;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	mdtA	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	Ecol_ampC_BLA	cephalosporin;penam	ampC-type beta-lactamase
+CP000243.1	EC-8	cephalosporin	EC beta-lactamase
+CP000243.1	ugd	peptide antibiotic	pmr phosphoethanolamine transferase
+CP000243.1	EC-15	cephalosporin	EC beta-lactamase
+CP000243.1	EC-18	cephalosporin	EC beta-lactamase
+CP000243.1	EC-16	cephalosporin	EC beta-lactamase
+CP000243.1	EC-14	cephalosporin	EC beta-lactamase
+CP000243.1	EC-13	cephalosporin	EC beta-lactamase
+CP000243.1	emrK	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	leuO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	PmrF	peptide antibiotic	pmr phosphoethanolamine transferase
+CP000243.1	mdtN	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	bacA	peptide antibiotic	undecaprenyl pyrophosphate related proteins
+CP000243.1	gadW	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	gadX	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	AcrS	cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	CRP	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	evgA	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	kdpE	aminoglycoside antibiotic	kdpDE
+CP000243.1	emrR	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP000243.1	H-NS	cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	marA	carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP000243.1	Ecol_emrE	macrolide antibiotic	small multidrug resistance (SMR) antibiotic efflux pump
+CP024138.1	evgS	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	acrB	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	acrD	aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtF	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtB	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	AcrF	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtC	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	msbA	nitroimidazole antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+CP024138.1	YojI	peptide antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump
+CP024138.1	emrB	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	Kpne_KpnH	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	TolC	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	emrY	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	mdtP	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	cpxA	aminocoumarin antibiotic;aminoglycoside antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	eptA	peptide antibiotic	pmr phosphoethanolamine transferase
+CP024138.1	mdtG	phosphonic acid antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	mdtA	aminocoumarin antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	Ecol_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtH	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	Sfle_acrA	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtE	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	mdtM	disinfecting agents and antiseptics;fluoroquinolone antibiotic;lincosamide antibiotic;nucleoside antibiotic;phenicol antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	emrA	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	Ecol_mdfA	disinfecting agents and antiseptics;phenicol antibiotic;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	AcrE	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	EC-8	cephalosporin	EC beta-lactamase
+CP024138.1	EC-5	cephalosporin	EC beta-lactamase
+CP024138.1	Ecol_ampC_BLA	cephalosporin;penam	ampC-type beta-lactamase
+CP024138.1	EC-19	cephalosporin	EC beta-lactamase
+CP024138.1	EC-15	cephalosporin	EC beta-lactamase
+CP024138.1	EC-16	cephalosporin	EC beta-lactamase
+CP024138.1	EC-14	cephalosporin	EC beta-lactamase
+CP024138.1	EC-13	cephalosporin	EC beta-lactamase
+CP024138.1	EC-18	cephalosporin	EC beta-lactamase
+CP024138.1	ugd	peptide antibiotic	pmr phosphoethanolamine transferase
+CP024138.1	emrK	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	leuO	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	mdtN	disinfecting agents and antiseptics;nucleoside antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	PmrF	peptide antibiotic	pmr phosphoethanolamine transferase
+CP024138.1	bacA	peptide antibiotic	undecaprenyl pyrophosphate related proteins
+CP024138.1	gadX	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	gadW	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	CRP	fluoroquinolone antibiotic;macrolide antibiotic;penam	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	AcrS	cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	evgA	fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	kdpE	aminoglycoside antibiotic	kdpDE
+CP024138.1	emrR	fluoroquinolone antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024138.1	H-NS	cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	marA	carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;monobactam;penam;penem;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic	General Bacterial Porin with reduced permeability to beta-lactams;resistance-nodulation-cell division (RND) antibiotic efflux pump
+CP024138.1	Ecol_emrE	macrolide antibiotic	small multidrug resistance (SMR) antibiotic efflux pump
+CP024139.1	MCR-1.1	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.31	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.17	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.30	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.29	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.19	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.22	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.16	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.21	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.28	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.20	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.18	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.27	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.34	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.26	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.33	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.4	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.9	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.2	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.13	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.8	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.12	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.7	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.5	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.32	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.25	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.15	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.3	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.6	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.11	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.14	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.23	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.24	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024139.1	MCR-1.10	peptide antibiotic	MCR phosphoethanolamine transferase
+CP024140.1	tet(A)	tetracycline antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024140.1	floR	phenicol antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024140.1	pp-flo	phenicol antibiotic	major facilitator superfamily (MFS) antibiotic efflux pump
+CP024140.1	TEM-244	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-237	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-181	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-231	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	AAC(3)-IId	aminoglycoside antibiotic	AAC(3)
+CP024140.1	TEM-150	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-168	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-54	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-156	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-90	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-171	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-183	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-1	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-235	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-189	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-154	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-82	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-81	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-40	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-219	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-146	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-26	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-6	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-112	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-116	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-240	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-229	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-57	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-80	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-197	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-93	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-141	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-79	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-209	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-96	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-55	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-73	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-52	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-122	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-98	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-103	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-245	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-236	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-234	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-32	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-31	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-228	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-215	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-105	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-76	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-208	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-70	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-147	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-127	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-135	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-143	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-157	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-186	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-29	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-153	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-163	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-217	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-30	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-213	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-95	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-128	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-33	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-214	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-166	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-148	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-176	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-207	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-91	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-206	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-198	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-34	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-246	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-247	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-238	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-225	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-212	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-210	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-37	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-36	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-35	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-230	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-232	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-220	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-196	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-164	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-12	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-19	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-115	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-216	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-15	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-104	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-144	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-169	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-28	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-185	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-120	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-10	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-201	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-145	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-106	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-84	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-191	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-2	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-155	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-17	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-43	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-109	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-126	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-243	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-242	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-226	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-5	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-53	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-160	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-45	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-136	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-159	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-110	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-133	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-182	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-71	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-11	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-158	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-132	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-99	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-61	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-241	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-39	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-24	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-111	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-190	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-3	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-20	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-137	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-88	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-83	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-107	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-188	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-67	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-138	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-78	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-16	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-47	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-9	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-233	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-4	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-8	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-48	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-184	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-85	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-149	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-114	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-134	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-129	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-152	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-63	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-142	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-68	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-205	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-162	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-151	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-92	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-72	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-108	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-131	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-224	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-227	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-167	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-86	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-94	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-101	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-139	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	APH(6)-Id	aminoglycoside antibiotic	APH(6)
+CP024140.1	TEM-49	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-113	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-21	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-22	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-121	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-87	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-187	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-211	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-130	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-177	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-199	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-125	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-123	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-124	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-195	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-102	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-60	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	sul2	sulfonamide antibiotic;sulfone antibiotic	sulfonamide resistant sul
+CP024140.1	TEM-42	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-59	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-89	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-193	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	APH(3')-Ia	aminoglycoside antibiotic	APH(3')
+CP024140.1	APH(3'')-Ib	aminoglycoside antibiotic	APH(3'')
+CP024140.1	TEM-194	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-178	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	sul3	sulfonamide antibiotic;sulfone antibiotic	sulfonamide resistant sul
+CP024140.1	AAC(3)-IIa	aminoglycoside antibiotic	AAC(3)
+CP024140.1	AAC(3)-IIc	aminoglycoside antibiotic	AAC(3)
+CP024140.1	AAC(3)-IIe	aminoglycoside antibiotic	AAC(3)
+CP024140.1	TEM-118	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-7	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-75	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-117	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	TEM-192	cephalosporin;monobactam;penam;penem	TEM beta-lactamase
+CP024140.1	dfrA14	diaminopyrimidine antibiotic	trimethoprim resistant dihydrofolate reductase dfr
+CP024140.1	AAC(6')-Ib7	aminoglycoside antibiotic	AAC(6')
+CP024140.1	AAC(6')-Ib7	aminoglycoside antibiotic	AAC(6')
